@@ -25,24 +25,24 @@ This project uses Microsoft Excel to summarize a healthcare dataset and compare 
 ## Files
 
 - `project.xlsx` — Excel workbook containing source data and dashboard worksheets
-- `screenshots/` — screenshots of the dashboard
+- Dashboard screenshots are stored in the repository root
 
 ## Preview
 
 ### Dashboard overview
-![Healthcare dashboard overview](screenshots/dashboard-overview.png)
+![Healthcare dashboard overview](dashboard-overview.png)
 
 ### Gender and work type
-![Gender distribution and stroke by work type](screenshots/dashboard-work-type.png)
+![Gender distribution and stroke by work type](dashboard-work-type.png)
 
 ### Smoking status and gender
-![Stroke by smoking status and cases by gender](screenshots/dashboard-smoking-gender.png)
+![Stroke by smoking status and cases by gender](dashboard-smoking-gender.png)
 
 ### Hypertension and residence type
-![Hypertension and residence type](screenshots/dashboard-residence-hypertension.png)
+![Hypertension and residence type](dashboard-residence-hypertension.png)
 
 ### Heart disease and BMI
-![Heart disease and BMI](screenshots/dashboard-heart-disease-bmi.png)
+![Heart disease and BMI](dashboard-heart-disease-bmi.png)
 
 ## How to explore
 
